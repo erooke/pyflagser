@@ -108,5 +108,3 @@ venv.bak/
 # Emacs
 *~
 
-# Pybind11
-pybind11
